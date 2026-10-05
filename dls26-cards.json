@@ -2,8 +2,10 @@
   {
     "id": "arda-guler-2026-dynamic-stars",
     "name": "Arda Güler",
+    "image": "ag.jpg",
     "rating": 96,
     "position": "MCO",
+    
     "country": {
       "name": "Turquía",
       "flag": "🇹🇷"
@@ -14,28 +16,20 @@
     "heightCm": 175,
     "preferredFoot": "left",
     "stats": {
-      "physical": {
-        "speed": 95,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 69
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 92,
-        "tackling": 80
-      }
+      "physical": { "speed": 95, "acceleration": 100, "stamina": 100, "strength": 69 },
+      "technical": { "control": 100, "passing": 100, "shooting": 92, "tackling": 80 }
     }
   },
   {
     "id": "eberechi-eze-2026-dynamic-stars",
     "name": "Eberechi Eze",
+    "image": "ee.jpg",
     "rating": 96,
     "position": "MCO",
+    
     "country": {
       "name": "Inglaterra",
-      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      "flag": "🇬🇧"
     },
     "team": "Selección de Inglaterra",
     "cardType": "Dynamic Stars",
@@ -43,25 +37,17 @@
     "heightCm": 178,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 95,
-        "acceleration": 100,
-        "stamina": 93,
-        "strength": 81
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 95,
-        "tackling": 67
-      }
+      "physical": { "speed": 95, "acceleration": 100, "stamina": 93, "strength": 81 },
+      "technical": { "control": 100, "passing": 100, "shooting": 95, "tackling": 67 }
     }
   },
   {
     "id": "rodrigo-de-paul-2026-dynamic-stars",
     "name": "Rodrigo De Paul",
+    "image": "rdp.jpg",
     "rating": 96,
     "position": "MC",
+
     "country": {
       "name": "Argentina",
       "flag": "🇦🇷"
@@ -72,25 +58,17 @@
     "heightCm": 180,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 91,
-        "acceleration": 88,
-        "stamina": 100,
-        "strength": 84
-      },
-      "technical": {
-        "control": 98,
-        "passing": 100,
-        "shooting": 81,
-        "tackling": 92
-      }
+      "physical": { "speed": 91, "acceleration": 88, "stamina": 100, "strength": 84 },
+      "technical": { "control": 98, "passing": 100, "shooting": 81, "tackling": 92 }
     }
   },
   {
     "id": "richard-rios-2026-dynamic-stars",
     "name": "Richard Ríos",
+    "image": "rr.jpg",
     "rating": 96,
     "position": "MCD",
+   
     "country": {
       "name": "Colombia",
       "flag": "🇨🇴"
@@ -101,25 +79,17 @@
     "heightCm": 187,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 92,
-        "acceleration": 92,
-        "stamina": 100,
-        "strength": 87
-      },
-      "technical": {
-        "control": 99,
-        "passing": 99,
-        "shooting": 71,
-        "tackling": 91
-      }
+      "physical": { "speed": 92, "acceleration": 92, "stamina": 100, "strength": 87 },
+      "technical": { "control": 99, "passing": 99, "shooting": 71, "tackling": 91 }
     }
   },
   {
     "id": "weston-mckennie-2026-dynamic-stars",
     "name": "Weston McKennie",
+    "image": "mck.jpg",
     "rating": 96,
     "position": "MC",
+    "position2": null,
     "country": {
       "name": "EE.UU.",
       "flag": "🇺🇸"
@@ -130,25 +100,17 @@
     "heightCm": 185,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 94,
-        "acceleration": 87,
-        "stamina": 100,
-        "strength": 90
-      },
-      "technical": {
-        "control": 93,
-        "passing": 97,
-        "shooting": 80,
-        "tackling": 95
-      }
+      "physical": { "speed": 94, "acceleration": 87, "stamina": 100, "strength": 90 },
+      "technical": { "control": 93, "passing": 97, "shooting": 80, "tackling": 95 }
     }
   },
   {
     "id": "nico-williams-2026-dynamic-stars",
     "name": "Nico Williams",
+    "image": "nw.jpg",
     "rating": 96,
     "position": "EI",
+
     "country": {
       "name": "España",
       "flag": "🇪🇸"
@@ -159,25 +121,17 @@
     "heightCm": 181,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 79
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 51
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 79 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 51 }
     }
   },
   {
     "id": "ousmane-dembele-2025-team-of-2025",
     "name": "Ousmane Dembélé",
-    "rating": 87,
+    "image": "od.jpg",
+    "rating": 97,
     "position": "ED",
+    
     "country": {
       "name": "Francia",
       "flag": "🇫🇷"
@@ -188,25 +142,17 @@
     "heightCm": 178,
     "preferredFoot": "both",
     "stats": {
-      "physical": {
-        "speed": 91,
-        "acceleration": 94,
-        "stamina": 82,
-        "strength": 64
-      },
-      "technical": {
-        "control": 93,
-        "passing": 92,
-        "shooting": 92,
-        "tackling": 46
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 64 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 46 }
     }
   },
   {
     "id": "kylian-mbappe-2025-team-of-2025",
     "name": "Kylian Mbappé",
+    "image": "km.jpg",
     "rating": 97,
     "position": "DC",
+   
     "country": {
       "name": "Francia",
       "flag": "🇫🇷"
@@ -217,28 +163,20 @@
     "heightCm": 178,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 97
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 32
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 97 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 32 }
     }
   },
   {
     "id": "harry-kane-2025-team-of-2025",
     "name": "Harry Kane",
+    "image": "hk.jpg",
     "rating": 97,
     "position": "DC",
+    
     "country": {
       "name": "Inglaterra",
-      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      "flag": "🇬🇧"
     },
     "team": "Bayern Múnich",
     "cardType": "Team of 2025",
@@ -246,25 +184,17 @@
     "heightCm": 188,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 96,
-        "acceleration": 97,
-        "stamina": 100,
-        "strength": 100
-      },
-      "technical": {
-        "control": 93,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 56
-      }
+      "physical": { "speed": 96, "acceleration": 97, "stamina": 100, "strength": 100 },
+      "technical": { "control": 93, "passing": 100, "shooting": 100, "tackling": 56 }
     }
   },
   {
     "id": "pedri-2025-team-of-2025",
     "name": "Pedri",
+    "image": "p.jpg",
     "rating": 96,
     "position": "MC",
+    
     "country": {
       "name": "España",
       "flag": "🇪🇸"
@@ -275,25 +205,17 @@
     "heightCm": 174,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 91,
-        "acceleration": 96,
-        "stamina": 100,
-        "strength": 72
-      },
-      "technical": {
-        "control": 100,
-        "passing": 98,
-        "shooting": 97,
-        "tackling": 93
-      }
+      "physical": { "speed": 91, "acceleration": 96, "stamina": 100, "strength": 72 },
+      "technical": { "control": 100, "passing": 98, "shooting": 97, "tackling": 93 }
     }
   },
   {
     "id": "joao-pedro-2026-nuevas-especiales",
     "name": "João Pedro",
-    "rating": 82,
+    "image": "jp.jpg",
+    "rating": 93,
     "position": "DC",
+   
     "country": {
       "name": "Brasil",
       "flag": "🇧🇷"
@@ -304,25 +226,17 @@
     "heightCm": 182,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 83,
-        "acceleration": 83,
-        "stamina": 80,
-        "strength": 80
-      },
-      "technical": {
-        "control": 86,
-        "passing": 83,
-        "shooting": 87,
-        "tackling": 29
-      }
+      "physical": { "speed": 98, "acceleration": 96, "stamina": 100, "strength": 88 },
+      "technical": { "control": 93, "passing": 91, "shooting": 98, "tackling": 29 }
     }
   },
   {
     "id": "kevin-de-bruyne-2018-wc-heroes",
     "name": "Kevin De Bruyne",
+    "image": "kdb.jpg",
     "rating": 96,
     "position": "MCO",
+    
     "country": {
       "name": "Bélgica",
       "flag": "🇧🇪"
@@ -333,25 +247,17 @@
     "heightCm": 181,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 93,
-        "acceleration": 95,
-        "stamina": 96,
-        "strength": 77
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 74
-      }
+      "physical": { "speed": 93, "acceleration": 95, "stamina": 96, "strength": 77 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 74 }
     }
   },
   {
     "id": "luka-modric-2018-champions",
     "name": "Luka Modrić",
+    "image": "modric.jpg",
     "rating": 96,
     "position": "MC",
+    
     "country": {
       "name": "Croacia",
       "flag": "🇭🇷"
@@ -362,23 +268,14 @@
     "heightCm": 172,
     "preferredFoot": "both",
     "stats": {
-      "physical": {
-        "speed": 90,
-        "acceleration": 92,
-        "stamina": 100,
-        "strength": 79
-      },
-      "technical": {
-        "control": 99,
-        "passing": 100,
-        "shooting": 93,
-        "tackling": 82
-      }
+      "physical": { "speed": 90, "acceleration": 92, "stamina": 100, "strength": 79 },
+      "technical": { "control": 99, "passing": 100, "shooting": 93, "tackling": 82 }
     }
   },
   {
     "id": "keylor-navas-2014-wc-heroes",
     "name": "Keylor Navas",
+    "image": "navas.jpg",
     "rating": 95,
     "position": "GK",
     "country": {
@@ -391,27 +288,18 @@
     "heightCm": 185,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 67,
-        "acceleration": 67,
-        "strength": 54
-      },
-      "technical": {
-        "control": 62,
-        "passing": 60,
-        "tackling": 50
-      },
-      "goalkeeping": {
-        "reflexes": 100,
-        "handling": 85
-      }
+      "physical": { "speed": 67, "acceleration": 67, "strength": 54 },
+      "technical": { "control": 62, "passing": 60, "tackling": 50 },
+      "goalkeeping": { "reflexes": 100, "handling": 85 }
     }
   },
   {
     "id": "angel-di-maria-2014-champions",
     "name": "Ángel Di María",
+    "image": "dimaria.jpg",
     "rating": 95,
     "position": "ED",
+   
     "country": {
       "name": "Argentina",
       "flag": "🇦🇷"
@@ -422,25 +310,17 @@
     "heightCm": 178,
     "preferredFoot": "left",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 65
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 64
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 65 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 64 }
     }
   },
   {
     "id": "ngolo-kante-2016-champions",
     "name": "N'Golo Kanté",
+    "image": "kante.jpg",
     "rating": 95,
     "position": "MCD",
+    "position2": null,
     "country": {
       "name": "Francia",
       "flag": "🇫🇷"
@@ -451,25 +331,17 @@
     "heightCm": 168,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 95,
-        "acceleration": 97,
-        "stamina": 95,
-        "strength": 80
-      },
-      "technical": {
-        "control": 90,
-        "passing": 90,
-        "shooting": 83,
-        "tackling": 100
-      }
+      "physical": { "speed": 95, "acceleration": 97, "stamina": 95, "strength": 80 },
+      "technical": { "control": 90, "passing": 90, "shooting": 83, "tackling": 100 }
     }
   },
   {
     "id": "james-rodriguez-2014-wc-heroes",
     "name": "James Rodríguez",
+    "image": "james.jpg",
     "rating": 95,
     "position": "MCO",
+    "position2": null,
     "country": {
       "name": "Colombia",
       "flag": "🇨🇴"
@@ -480,25 +352,17 @@
     "heightCm": 180,
     "preferredFoot": "left",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 75
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 50
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 75 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 50 }
     }
   },
   {
     "id": "fabio-cannavaro-2006-legends",
     "name": "Fabio Cannavaro",
+    "image": "cannavaro.jpg",
     "rating": 96,
     "position": "DFC",
+    "position2": null,
     "country": {
       "name": "Italia",
       "flag": "🇮🇹"
@@ -509,25 +373,17 @@
     "heightCm": 176,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 100
-      },
-      "technical": {
-        "control": 93,
-        "passing": 82,
-        "shooting": 53,
-        "tackling": 100
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 100 },
+      "technical": { "control": 93, "passing": 82, "shooting": 53, "tackling": 100 }
     }
   },
   {
     "id": "rivaldo-1999-legends",
     "name": "Rivaldo",
+    "image": "rivaldo.jpg",
     "rating": 96,
     "position": "EI",
+    "position2": null,
     "country": {
       "name": "Brasil",
       "flag": "🇧🇷"
@@ -538,25 +394,17 @@
     "heightCm": 186,
     "preferredFoot": "left",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 88
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 42
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 88 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 42 }
     }
   },
   {
     "id": "carlos-valderrama-1993-legends",
     "name": "Carlos Valderrama",
+    "image": "valderrama.jpg",
     "rating": 93,
     "position": "MCO",
+    "position2": null,
     "country": {
       "name": "Colombia",
       "flag": "🇨🇴"
@@ -567,25 +415,17 @@
     "heightCm": 177,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 92,
-        "acceleration": 91,
-        "stamina": 100,
-        "strength": 79
-      },
-      "technical": {
-        "control": 90,
-        "passing": 99,
-        "shooting": 93,
-        "tackling": 70
-      }
+      "physical": { "speed": 92, "acceleration": 91, "stamina": 100, "strength": 79 },
+      "technical": { "control": 90, "passing": 99, "shooting": 93, "tackling": 70 }
     }
   },
   {
     "id": "lionel-messi-2012-champions",
     "name": "Lionel Messi",
+    "image": "messi.jpg",
     "rating": 98,
     "position": "SD",
+    "position2": null,
     "country": {
       "name": "Argentina",
       "flag": "🇦🇷"
@@ -596,25 +436,17 @@
     "heightCm": 170,
     "preferredFoot": "left",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 97
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 41
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 97 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 41 }
     }
   },
   {
     "id": "cristiano-ronaldo-2014-champions",
     "name": "Cristiano Ronaldo",
+    "image": "cr7.jpg",
     "rating": 98,
     "position": "EI",
+    "position2": null,
     "country": {
       "name": "Portugal",
       "flag": "🇵🇹"
@@ -625,25 +457,17 @@
     "heightCm": 187,
     "preferredFoot": "both",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 100
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 46
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 100 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 46 }
     }
   },
   {
     "id": "cristiano-ronaldo-2018-wc-heroes",
     "name": "Cristiano Ronaldo",
+    "image": "cr7.jpg",
     "rating": 97,
     "position": "DC",
+    "position2": null,
     "country": {
       "name": "Portugal",
       "flag": "🇵🇹"
@@ -654,25 +478,17 @@
     "heightCm": 187,
     "preferredFoot": "both",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 100
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 41
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 100 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 41 }
     }
   },
   {
     "id": "luis-suarez-2026-dream-stars",
     "name": "Luis Suárez",
+    "image": "suarez.jpg",
     "rating": 93,
     "position": "DC",
+    "position2": null,
     "country": {
       "name": "Colombia",
       "flag": "🇨🇴"
@@ -683,25 +499,17 @@
     "heightCm": 181,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 95,
-        "strength": 92
-      },
-      "technical": {
-        "control": 98,
-        "passing": 82,
-        "shooting": 100,
-        "tackling": 33
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 95, "strength": 92 },
+      "technical": { "control": 98, "passing": 82, "shooting": 100, "tackling": 33 }
     }
   },
   {
     "id": "kenan-yildiz-2026-dream-stars",
     "name": "Kenan Yildiz",
+    "image": "yildiz.jpg",
     "rating": 94,
     "position": "SD",
+    "position2": null,
     "country": {
       "name": "Turquía",
       "flag": "🇹🇷"
@@ -712,25 +520,17 @@
     "heightCm": 187,
     "preferredFoot": "both",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 81
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 34
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 81 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 34 }
     }
   },
   {
     "id": "patrick-berg-2026-dream-stars",
     "name": "Patrick Berg",
+    "image": "berg.jpg",
     "rating": 93,
     "position": "MCD",
+    "position2": null,
     "country": {
       "name": "Noruega",
       "flag": "🇳🇴"
@@ -741,25 +541,17 @@
     "heightCm": 178,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 88,
-        "acceleration": 90,
-        "stamina": 100,
-        "strength": 84
-      },
-      "technical": {
-        "control": 93,
-        "passing": 92,
-        "shooting": 87,
-        "tackling": 85
-      }
+      "physical": { "speed": 88, "acceleration": 90, "stamina": 100, "strength": 84 },
+      "technical": { "control": 93, "passing": 92, "shooting": 87, "tackling": 85 }
     }
   },
   {
     "id": "julian-ryerson-2026-dream-stars",
     "name": "Julian Ryerson",
+    "image": "ryerson.jpg",
     "rating": 94,
     "position": "LD",
+    "position2": null,
     "country": {
       "name": "Noruega",
       "flag": "🇳🇴"
@@ -770,25 +562,17 @@
     "heightCm": 183,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 97,
-        "acceleration": 95,
-        "stamina": 100,
-        "strength": 82
-      },
-      "technical": {
-        "control": 80,
-        "passing": 100,
-        "shooting": 81,
-        "tackling": 98
-      }
+      "physical": { "speed": 97, "acceleration": 95, "stamina": 100, "strength": 82 },
+      "technical": { "control": 80, "passing": 100, "shooting": 81, "tackling": 98 }
     }
   },
   {
     "id": "nicolas-otamendi-2018-cult-heroes",
     "name": "Nicolás Otamendi",
+    "image": "no.jpg",
     "rating": 94,
     "position": "DFC",
+    "position2": null,
     "country": {
       "name": "Argentina",
       "flag": "🇦🇷"
@@ -799,25 +583,17 @@
     "heightCm": 183,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 95,
-        "acceleration": 95,
-        "stamina": 100,
-        "strength": 100
-      },
-      "technical": {
-        "control": 81,
-        "passing": 88,
-        "shooting": 60,
-        "tackling": 100
-      }
+      "physical": { "speed": 95, "acceleration": 95, "stamina": 100, "strength": 100 },
+      "technical": { "control": 81, "passing": 88, "shooting": 60, "tackling": 100 }
     }
   },
   {
     "id": "pierre-emerick-aubameyang-2017-cult-heroes",
     "name": "Pierre-Emerick Aubameyang",
+    "image": "aubameyang.jpg",
     "rating": 95,
     "position": "DC",
+    "position2": null,
     "country": {
       "name": "Gabón",
       "flag": "🇬🇦"
@@ -828,25 +604,17 @@
     "heightCm": 187,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 92
-      },
-      "technical": {
-        "control": 94,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 37
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 92 },
+      "technical": { "control": 94, "passing": 100, "shooting": 100, "tackling": 37 }
     }
   },
   {
     "id": "isco-2017-cult-heroes",
     "name": "Isco",
+    "image": "ir.jpg",
     "rating": 94,
     "position": "MCO",
+    "position2": null,
     "country": {
       "name": "España",
       "flag": "🇪🇸"
@@ -857,25 +625,17 @@
     "heightCm": 176,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 98,
-        "stamina": 97,
-        "strength": 75
-      },
-      "technical": {
-        "control": 97,
-        "passing": 96,
-        "shooting": 95,
-        "tackling": 53
-      }
+      "physical": { "speed": 100, "acceleration": 98, "stamina": 97, "strength": 75 },
+      "technical": { "control": 97, "passing": 96, "shooting": 95, "tackling": 53 }
     }
   },
   {
     "id": "paulo-dybala-2020-cult-heroes",
     "name": "Paulo Dybala",
+    "image": "dybala.jpg",
     "rating": 95,
     "position": "SD",
+    "position2": null,
     "country": {
       "name": "Argentina",
       "flag": "🇦🇷"
@@ -886,25 +646,17 @@
     "heightCm": null,
     "preferredFoot": "left",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 73
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 50
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 73 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 50 }
     }
   },
   {
     "id": "david-luiz-2017-cult-heroes",
     "name": "David Luiz",
+    "image": "davidluiz.jpg",
     "rating": 94,
     "position": "DFC",
+    "position2": null,
     "country": {
       "name": "Brasil",
       "flag": "🇧🇷"
@@ -915,23 +667,14 @@
     "heightCm": 189,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 92,
-        "acceleration": 92,
-        "stamina": 100,
-        "strength": 100
-      },
-      "technical": {
-        "control": 81,
-        "passing": 90,
-        "shooting": 71,
-        "tackling": 100
-      }
+      "physical": { "speed": 92, "acceleration": 92, "stamina": 100, "strength": 100 },
+      "technical": { "control": 81, "passing": 90, "shooting": 71, "tackling": 100 }
     }
   },
   {
     "id": "vozinha-2026-cult-heroes",
     "name": "Vozinha",
+    "image": "vozinha.jpg",
     "rating": 93,
     "position": "GK",
     "country": {
@@ -944,27 +687,18 @@
     "heightCm": 189,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 54,
-        "acceleration": 47,
-        "strength": 62
-      },
-      "technical": {
-        "control": 54,
-        "passing": 55,
-        "tackling": 43
-      },
-      "goalkeeping": {
-        "reflexes": 100,
-        "handling": 81
-      }
+      "physical": { "speed": 54, "acceleration": 47, "strength": 62 },
+      "technical": { "control": 54, "passing": 55, "tackling": 43 },
+      "goalkeeping": { "reflexes": 100, "handling": 81 }
     }
   },
   {
     "id": "lamine-yamal-2026-wc-champions",
     "name": "Lamine Yamal",
+    "image": "yamal.jpg",
     "rating": 97,
     "position": "ED",
+    "position2": null,
     "country": {
       "name": "España",
       "flag": "🇪🇸"
@@ -975,25 +709,17 @@
     "heightCm": 179,
     "preferredFoot": "left",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 91
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 100,
-        "tackling": 41
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 91 },
+      "technical": { "control": 100, "passing": 100, "shooting": 100, "tackling": 41 }
     }
   },
   {
     "id": "rodri-2026-wc-champions",
     "name": "Rodri",
+    "image": "rodri.jpg",
     "rating": 97,
     "position": "MCD",
+    "position2": null,
     "country": {
       "name": "España",
       "flag": "🇪🇸"
@@ -1004,25 +730,17 @@
     "heightCm": 190,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 85,
-        "acceleration": 85,
-        "stamina": 100,
-        "strength": 100
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 80,
-        "tackling": 100
-      }
+      "physical": { "speed": 85, "acceleration": 85, "stamina": 100, "strength": 100 },
+      "technical": { "control": 100, "passing": 100, "shooting": 80, "tackling": 100 }
     }
   },
   {
     "id": "pau-cubarsi-2026-wc-champions",
     "name": "Pau Cubarsí",
+    "image": "cubarsi.jpg",
     "rating": 95,
     "position": "DFC",
+    "position2": null,
     "country": {
       "name": "España",
       "flag": "🇪🇸"
@@ -1033,25 +751,17 @@
     "heightCm": 183,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 100
-      },
-      "technical": {
-        "control": 86,
-        "passing": 88,
-        "shooting": 47,
-        "tackling": 100
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 100 },
+      "technical": { "control": 86, "passing": 88, "shooting": 47, "tackling": 100 }
     }
   },
   {
     "id": "marc-cucurella-2026-wc-champions",
     "name": "Marc Cucurella",
+    "image": "cucurella.jpg",
     "rating": 95,
     "position": "LI",
+    "position2": null,
     "country": {
       "name": "España",
       "flag": "🇪🇸"
@@ -1062,25 +772,17 @@
     "heightCm": 174,
     "preferredFoot": "left",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 90
-      },
-      "technical": {
-        "control": 90,
-        "passing": 100,
-        "shooting": 65,
-        "tackling": 90
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 90 },
+      "technical": { "control": 90, "passing": 100, "shooting": 65, "tackling": 90 }
     }
   },
   {
     "id": "paul-pogba-2018-wc-champions",
     "name": "Paul Pogba",
+    "image": "pogba.jpg",
     "rating": 96,
     "position": "MC",
+    "position2": null,
     "country": {
       "name": "Francia",
       "flag": "🇫🇷"
@@ -1091,23 +793,14 @@
     "heightCm": 191,
     "preferredFoot": "both",
     "stats": {
-      "physical": {
-        "speed": 90,
-        "acceleration": 90,
-        "stamina": 100,
-        "strength": 90
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 90,
-        "tackling": 80
-      }
+      "physical": { "speed": 90, "acceleration": 90, "stamina": 100, "strength": 90 },
+      "technical": { "control": 100, "passing": 100, "shooting": 90, "tackling": 80 }
     }
   },
   {
     "id": "emiliano-martinez-2022-wc-champions",
     "name": "Emiliano Martínez",
+    "image": "martinez.jpg",
     "rating": 96,
     "position": "GK",
     "country": {
@@ -1120,27 +813,18 @@
     "heightCm": 170,
     "preferredFoot": "left",
     "stats": {
-      "physical": {
-        "speed": 61,
-        "acceleration": 57,
-        "strength": 72
-      },
-      "technical": {
-        "control": 63,
-        "passing": 63,
-        "tackling": 46
-      },
-      "goalkeeping": {
-        "reflexes": 95,
-        "handling": 94
-      }
+      "physical": { "speed": 61, "acceleration": 57, "strength": 72 },
+      "technical": { "control": 63, "passing": 63, "tackling": 46 },
+      "goalkeeping": { "reflexes": 95, "handling": 94 }
     }
   },
   {
     "id": "enzo-fernandez-2022-wc-champions",
     "name": "Enzo Fernández",
+    "image": "enzo.jpg",
     "rating": 95,
     "position": "MC",
+    "position2": null,
     "country": {
       "name": "Argentina",
       "flag": "🇦🇷"
@@ -1151,25 +835,17 @@
     "heightCm": 178,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 90,
-        "acceleration": 90,
-        "stamina": 100,
-        "strength": 80
-      },
-      "technical": {
-        "control": 100,
-        "passing": 100,
-        "shooting": 90,
-        "tackling": 77
-      }
+      "physical": { "speed": 90, "acceleration": 90, "stamina": 100, "strength": 80 },
+      "technical": { "control": 100, "passing": 100, "shooting": 90, "tackling": 77 }
     }
   },
   {
     "id": "benjamin-pavard-2018-wc-champions",
     "name": "Benjamin Pavard",
+    "image": "pavard.jpg",
     "rating": 94,
     "position": "LD",
+    "position2": null,
     "country": {
       "name": "Francia",
       "flag": "🇫🇷"
@@ -1180,18 +856,8 @@
     "heightCm": 186,
     "preferredFoot": "right",
     "stats": {
-      "physical": {
-        "speed": 100,
-        "acceleration": 100,
-        "stamina": 100,
-        "strength": 90
-      },
-      "technical": {
-        "control": 83,
-        "passing": 83,
-        "shooting": 70,
-        "tackling": 90
-      }
+      "physical": { "speed": 100, "acceleration": 100, "stamina": 100, "strength": 90 },
+      "technical": { "control": 83, "passing": 83, "shooting": 70, "tackling": 90 }
     }
   }
 ]
