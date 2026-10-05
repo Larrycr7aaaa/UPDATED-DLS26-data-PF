@@ -220,7 +220,8 @@ function buscarJugador() {
         p.team.toLowerCase().includes(busqueda) ||
         p.country.name.toLowerCase().includes(busqueda) ||
         p.position.toLowerCase().includes(busqueda) ||
-        p.cardType.toLowerCase().includes(busqueda)
+        p.cardType.toLowerCase().includes(busqueda)||
+       p.rating.tLowerCase().includes(busqueda)                                           
     );
 
     offset = 0;
