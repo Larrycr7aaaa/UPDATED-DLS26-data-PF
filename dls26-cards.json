@@ -2,7 +2,7 @@
   {
     "id": "arda-guler-2026-dynamic-stars",
     "name": "Arda Güler",
-    "image": "ag.jpg",
+    "image": "",
     "rating": 96,
     "position": "MCO",
     
@@ -89,7 +89,7 @@
     "image": "mck.jpg",
     "rating": 96,
     "position": "MC",
-    "position2": null,
+    
     "country": {
       "name": "EE.UU.",
       "flag": "🇺🇸"
@@ -128,7 +128,7 @@
   {
     "id": "ousmane-dembele-2025-team-of-2025",
     "name": "Ousmane Dembélé",
-    "image": "od.jpg",
+    "image": "",
     "rating": 97,
     "position": "ED",
     
@@ -149,7 +149,7 @@
   {
     "id": "kylian-mbappe-2025-team-of-2025",
     "name": "Kylian Mbappé",
-    "image": "km.jpg",
+    "image": "",
     "rating": 97,
     "position": "DC",
    
@@ -170,7 +170,7 @@
   {
     "id": "harry-kane-2025-team-of-2025",
     "name": "Harry Kane",
-    "image": "hk.jpg",
+    "image": "",
     "rating": 97,
     "position": "DC",
     
@@ -191,7 +191,7 @@
   {
     "id": "pedri-2025-team-of-2025",
     "name": "Pedri",
-    "image": "p.jpg",
+    "image": "",
     "rating": 96,
     "position": "MC",
     
@@ -212,7 +212,7 @@
   {
     "id": "joao-pedro-2026-nuevas-especiales",
     "name": "João Pedro",
-    "image": "jp.jpg",
+    "image": "",
     "rating": 93,
     "position": "DC",
    
